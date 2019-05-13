@@ -2,7 +2,7 @@
 😋 Recipes
 </h1>
 <p align="center">
-Receipts that I have tried and will love to do it again.
+Receipts that I have tried and will love to cook it again.
 </p>
 
 > Made with ❤️ in Russian Hill, San Francisco
