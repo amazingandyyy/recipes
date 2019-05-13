@@ -9,6 +9,8 @@ Receipts that I have tried and will love to cook it again.
 
 ## Sweet Salmon Borsch
 
+<img src='https://github.com/amazingandyyy/recipes/blob/master/assets/01%20Sweet%20Salmon%20Borsch.jpg?raw=true' width='500px' style='margin: auto'>
+
 - gingers
 - onions
 - three colors potatoes
@@ -19,6 +21,8 @@ Receipts that I have tried and will love to cook it again.
 cook them all together in the orders.
 
 ## Chicken creamy Pasta, white sauce
+
+<img src='https://github.com/amazingandyyy/recipes/blob/master/assets/02%20Chicken%20creamy%20Pasta,%20white%20sauce.jpg?raw=true' width='500px' style='margin: auto'>
 
 - boiled pasta for about 10 mins
 - onions finely chopped
