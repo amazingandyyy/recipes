@@ -1,5 +1,5 @@
 <h1 align="center">
-😋 Recipes
+😋 Receipts
 </h1>
 <p align="center">
 Receipts that I have tried and will love to cook it again.
